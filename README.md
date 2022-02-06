@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="JB-gif" height="200" width="200" src="https://c.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif">
+  <img align="right" alt="JB-gif" height="250" width="250" src="https://c.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif">
 </div>
 
 ## Hi there, I'm Jales Bussinguer 
