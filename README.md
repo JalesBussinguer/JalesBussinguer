@@ -1,16 +1,34 @@
-### Hi there 👋
+<div>
+  <img align="right" alt="JB-gif" height="200" width="200" src="https://c.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif">
+</div>
 
-<!--
-**JalesBussinguer/JalesBussinguer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Jales Bussinguer - A Remote Sensing Specialist from Brazil
 
-Here are some ideas to get you started:
+- 🌳 Environmental Engineer
+- 🥼 Researcher on GAtec Gestão Agroindustrial
+- 🛰️ Msc student in Geoprocessing and Environmental Analysis (University of Brasilia)
+- 📡 Currently working on SAR/Optical vegetation indices integration
+- 🖥️ Programming enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="JB-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="JB-jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="JB-snap" height="50" width="50" src="https://eo4society.esa.int/wp-content/uploads/2018/11/SNAP_icon-400x400.jpg">
+  <img align="center" alt="JB-qgis" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
+  <img align="center" alt="JB-inkscape" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg">
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/jalesbussinguer">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jalesbussinguer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalesbussinguer&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/jalesbussinguer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jalesbussinguer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
