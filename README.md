@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="JB-gif" height="180" width="180" src="https://c.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif">
+  <img align="right" alt="JB-gif" height="150" width="150" src="https://c.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif">
 </div>
 
 ## Hi there, I'm Jales Bussinguer - A Remote Sensing Specialist from Brazil
