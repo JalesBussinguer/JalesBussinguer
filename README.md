@@ -1,12 +1,13 @@
 <div>
-  <img align="right" alt="JB-gif" height="150" width="150" src="https://c.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif">
+  <img align="right" alt="JB-gif" height="200" width="200" src="https://c.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif">
 </div>
 
-## Hi there, I'm Jales Bussinguer - A Remote Sensing Specialist from Brazil
+## Hi there, I'm Jales Bussinguer 
 
+- 🛰️ Remote Sensing Specialist from Brazil
 - 🌳 Environmental Engineer
 - 🥼 Researcher on GAtec Gestão Agroindustrial
-- 🛰️ Msc student in Geoprocessing and Environmental Analysis (University of Brasilia)
+- 🎓 Msc student in Geoprocessing and Environmental Analysis (University of Brasilia)
 - 📡 Currently working on SAR/Optical vegetation indices integration
 - 🖥️ Programming enthusiast
 
