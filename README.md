@@ -15,7 +15,7 @@
   <img align="center" alt="JB-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">        
   <img align="center" alt="JB-r" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="JB-snap" height="50" width="50" src="https://eo4society.esa.int/wp-content/uploads/2018/11/SNAP_icon-400x400.jpg">
-  <img align="center" alt="JB-ee" height="50" width="50" src="[https://earthengine.google.com/static/images/earth-engine-logo.png](https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png)">
+  <img align="center" alt="JB-ee" height="50" width="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png">
   <img align="center" alt="JB-qgis" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
   <img align="center" alt="JB-latex" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <img align="center" alt="JB-inkscape" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg">
