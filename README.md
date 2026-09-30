@@ -5,10 +5,10 @@
 ## Hi there, I'm Jales Bussinguer 
 
 - 🛰️ Remote Sensing Specialist from Brazil
+- 🥼 Researcher/Geospatial Data Scientista/GIS Dev at Senior Sistemas SA
 - 🌳 Environmental Engineer
-- 🥼 Researcher/GIS Dev at Senior Sistemas
 - 🎓 Msc in Geoprocessing and Environmental Analysis (University of Brasilia)
-- 🎓 Phd student in Environmental Sistems Analysis and Modeling
+- 🎓 Phd student in Environmental Systems Analysis and Modeling (Federal University of Minas Gerais)
 - 📡 Currently working on SAR image analysis and modeling for monitoring the Brazilian Cerrado
 - 🖥️ Programming enthusiast
 
