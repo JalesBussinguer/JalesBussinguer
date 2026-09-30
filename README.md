@@ -9,7 +9,7 @@
 - 🥼 Researcher/GIS Dev at Senior Sistemas
 - 🎓 Msc in Geoprocessing and Environmental Analysis (University of Brasilia)
 - 🎓 Phd student in Environmental Sistems Analysis and Modeling
-- 📡 Currently working on SAR image analysis and modeling for monitoring the Brailian Cerrado
+- 📡 Currently working on SAR image analysis and modeling for monitoring the Brazilian Cerrado
 - 🖥️ Programming enthusiast
 
 <div style="display: inline_block"><br>
