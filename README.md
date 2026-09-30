@@ -6,9 +6,10 @@
 
 - 🛰️ Remote Sensing Specialist from Brazil
 - 🌳 Environmental Engineer
-- 🥼 Researcher/Data Scientist on GAtec Gestão Agroindustrial
+- 🥼 Researcher/GIS Dev at Senior Sistemas
 - 🎓 Msc in Geoprocessing and Environmental Analysis (University of Brasilia)
-- 📡 Currently working on SAR vegetation indices
+- 🎓 Phd student in Environmental Sistems Analysis and Modeling
+- 📡 Currently working on SAR image analysis and modeling for monitoring the Brailian Cerrado
 - 🖥️ Programming enthusiast
 
 <div style="display: inline_block"><br>
